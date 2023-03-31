@@ -1,0 +1,12 @@
+D:\AzureFunc\MessengerFunction\bin\Debug\net6.0\MessengerFunction.deps.json
+D:\AzureFunc\MessengerFunction\bin\Debug\net6.0\MessengerFunction.dll
+D:\AzureFunc\MessengerFunction\bin\Debug\net6.0\MessengerFunction.pdb
+D:\AzureFunc\MessengerFunction\obj\Debug\net6.0\MessengerFunction.csproj.AssemblyReference.cache
+D:\AzureFunc\MessengerFunction\obj\Debug\net6.0\MessengerFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\AzureFunc\MessengerFunction\obj\Debug\net6.0\MessengerFunction.AssemblyInfoInputs.cache
+D:\AzureFunc\MessengerFunction\obj\Debug\net6.0\MessengerFunction.AssemblyInfo.cs
+D:\AzureFunc\MessengerFunction\obj\Debug\net6.0\MessengerFunction.csproj.CoreCompileInputs.cache
+D:\AzureFunc\MessengerFunction\obj\Debug\net6.0\MessengerFunction.dll
+D:\AzureFunc\MessengerFunction\obj\Debug\net6.0\refint\MessengerFunction.dll
+D:\AzureFunc\MessengerFunction\obj\Debug\net6.0\MessengerFunction.pdb
+D:\AzureFunc\MessengerFunction\obj\Debug\net6.0\ref\MessengerFunction.dll
